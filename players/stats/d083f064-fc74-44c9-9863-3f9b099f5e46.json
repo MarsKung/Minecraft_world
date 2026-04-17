@@ -1,0 +1,119 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:spruce_leaves": 1,
+      "minecraft:dirt": 14,
+      "minecraft:cobblestone": 40,
+      "minecraft:rail": 1,
+      "minecraft:stone": 40,
+      "minecraft:leather": 7,
+      "minecraft:bone": 1,
+      "minecraft:torch": 1,
+      "minecraft:diamond_pickaxe": 1,
+      "minecraft:brown_mushroom": 2,
+      "minecraft:water_bucket": 1,
+      "minecraft:coal": 8,
+      "minecraft:oak_log": 18,
+      "minecraft:iron_ore": 10,
+      "minecraft:wheat_seeds": 136,
+      "minecraft:granite": 1,
+      "minecraft:spider_eye": 6,
+      "minecraft:tipped_arrow": 1,
+      "minecraft:stick": 4,
+      "minecraft:cooked_beef": 2,
+      "minecraft:crafting_table": 2,
+      "minecraft:snowball": 12,
+      "minecraft:raw_copper": 21,
+      "minecraft:oak_sapling": 3,
+      "minecraft:iron_ingot": 14,
+      "minecraft:beef": 9,
+      "minecraft:rotten_flesh": 2,
+      "minecraft:raw_iron": 12,
+      "minecraft:apple": 1,
+      "minecraft:string": 10,
+      "minecraft:wheat": 47
+    },
+    "minecraft:crafted": {
+      "minecraft:bucket": 1,
+      "minecraft:wooden_axe": 1,
+      "minecraft:cooked_beef": 1,
+      "minecraft:oak_planks": 8,
+      "minecraft:bread": 15,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:mined": {
+      "minecraft:granite": 1,
+      "minecraft:dirt": 11,
+      "minecraft:grass_block": 3,
+      "minecraft:coal_ore": 5,
+      "minecraft:wheat": 59,
+      "minecraft:spruce_leaves": 2,
+      "minecraft:short_grass": 2,
+      "minecraft:oak_leaves": 11,
+      "minecraft:crafting_table": 2,
+      "minecraft:oak_log": 18,
+      "minecraft:copper_ore": 3,
+      "minecraft:iron_ore": 18,
+      "minecraft:stone": 81
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1311,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 13,
+      "minecraft:damage_taken": 2187,
+      "minecraft:open_shulker_box": 3,
+      "minecraft:time_since_death": 1258,
+      "minecraft:interact_with_furnace": 1,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:total_world_time": 53193,
+      "minecraft:swim_one_cm": 1942,
+      "minecraft:climb_one_cm": 142,
+      "minecraft:deaths": 8,
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:walk_one_cm": 92689,
+      "minecraft:walk_under_water_one_cm": 4311,
+      "minecraft:play_time": 53193,
+      "minecraft:damage_dealt": 2244,
+      "minecraft:jump": 605,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 156840,
+      "minecraft:open_chest": 7,
+      "minecraft:fall_one_cm": 10819,
+      "minecraft:fly_one_cm": 109896,
+      "minecraft:walk_on_water_one_cm": 10288,
+      "minecraft:sneak_time": 16
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 1,
+      "minecraft:spider": 1,
+      "minecraft:zombie": 5
+    },
+    "minecraft:used": {
+      "minecraft:water_bucket": 1,
+      "minecraft:golden_pickaxe": 32,
+      "minecraft:wooden_axe": 9,
+      "minecraft:diamond_pickaxe": 82,
+      "minecraft:bucket": 2,
+      "minecraft:crafting_table": 2,
+      "minecraft:diamond_sword": 54,
+      "minecraft:bread": 8,
+      "minecraft:dirt": 1,
+      "minecraft:wheat_seeds": 60
+    },
+    "minecraft:dropped": {
+      "minecraft:water_bucket": 1,
+      "minecraft:wooden_axe": 1
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 1,
+      "minecraft:stray": 1,
+      "minecraft:cave_spider": 4,
+      "minecraft:cow": 5,
+      "minecraft:spider": 1
+    },
+    "minecraft:broken": {
+      "minecraft:golden_pickaxe": 1
+    }
+  },
+  "DataVersion": 4790
+}
